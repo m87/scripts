@@ -9,6 +9,6 @@ some scripts
 \# yaml file example<br>
 \# required<br>
 root:<br>
-    a:<br>
-        b: [c, d] <br>
+&#09;a:<br>
+&#09;&#09;b: [c, d] <br>
 \# creates a/b/c, a/b/d
