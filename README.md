@@ -6,10 +6,9 @@ some scripts
 
 ## dir-gen
 - $1 -> yaml file <br>
-### yaml file example<br>
+\# yaml file example<br>
 \# required<br>
 root:<br>
-\ta:<br>
-\tb: [c, d] <br>
-
+    a:<br>
+        b: [c, d] <br>
 \# creates a/b/c, a/b/d
