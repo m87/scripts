@@ -5,11 +5,11 @@ some scripts
 - $1 -> date as "YYYY-MM-DD"
 
 ## dir-gen
-- $1 -> yaml file
-### yaml file example
-\# required
-root:
-    a:
-        b: [c, d]
+- $1 -> yaml file <br>
+### yaml file example<br>
+\# required<br>
+root:<br>
+\ta:<br>
+\tb: [c, d] <br>
 
 \# creates a/b/c, a/b/d
