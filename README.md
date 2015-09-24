@@ -17,4 +17,4 @@ root:<br>
 ## 4chan-img-downloader
 downloads all images from thread with original filename<br>
 dst folder name is the thread id.<br>
-$1 -> thread url
+$1 -> thread url (i.e. https://boards.4chan.org/hr/thread/2451595)
